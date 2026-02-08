@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "skills": {
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "skillFolderHash": "7bd8fc459f09f0e14dcc2adbb4a5a58e60ea755c",
+      "installedAt": "2026-02-06T17:06:01.006Z",
+      "updatedAt": "2026-02-06T17:06:01.006Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
+      "installedAt": "2026-02-06T17:06:12.521Z",
+      "updatedAt": "2026-02-06T17:06:12.521Z"
+    },
+    "react-useeffect": {
+      "source": "softaworks/agent-toolkit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/softaworks/agent-toolkit.git",
+      "skillPath": "skills/react-useeffect/SKILL.md",
+      "skillFolderHash": "b16fcda0660491a139a2537c6fa46433eecf640f",
+      "installedAt": "2026-02-07T23:53:23.189Z",
+      "updatedAt": "2026-02-07T23:53:23.189Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "codex",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode"
+  ]
+}
