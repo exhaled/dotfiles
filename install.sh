@@ -7,4 +7,6 @@ ln -sfn "$DOTFILES_DIR/.agents" ~/.agents
 # add more symlinks here as needed
 
 mkdir -p ~/.config
+# Remove existing directory so symlink can replace it
+[ -d ~/.config/opencode ] && [ ! -L ~/.config/opencode ] && rm -rf ~/.config/opencode
 ln -sfn "$DOTFILES_DIR/.config/opencode" ~/.config/opencode
