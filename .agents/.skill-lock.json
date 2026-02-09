@@ -27,6 +27,33 @@
       "skillFolderHash": "b16fcda0660491a139a2537c6fa46433eecf640f",
       "installedAt": "2026-02-07T23:53:23.189Z",
       "updatedAt": "2026-02-07T23:53:23.189Z"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "skillFolderHash": "928950704df8a8b885c03de5da626331e6f29cf8",
+      "installedAt": "2026-02-09T21:35:54.583Z",
+      "updatedAt": "2026-02-09T21:35:54.583Z"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "skillFolderHash": "079b06a135401704ea94ab74c7c9d86c92ba259f",
+      "installedAt": "2026-02-09T21:36:50.625Z",
+      "updatedAt": "2026-02-09T21:36:50.625Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-02-09T21:37:19.831Z",
+      "updatedAt": "2026-02-09T21:37:19.831Z"
     }
   },
   "dismissed": {
