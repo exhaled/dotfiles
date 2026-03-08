@@ -55,6 +55,24 @@
       "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
       "installedAt": "2026-02-09T21:37:19.831Z",
       "updatedAt": "2026-02-09T21:37:19.831Z"
+    },
+    "react-email": {
+      "source": "resend/react-email",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/resend/react-email.git",
+      "skillPath": "skills/react-email/SKILL.md",
+      "skillFolderHash": "266cd902dc59e8bf751c9a528d6c7ac8537e1fc7",
+      "installedAt": "2026-03-07T23:16:06.101Z",
+      "updatedAt": "2026-03-07T23:16:06.101Z"
+    },
+    "simplify": {
+      "source": "brianlovin/claude-config",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/brianlovin/claude-config.git",
+      "skillPath": "skills/simplify/SKILL.md",
+      "skillFolderHash": "83566973442dc05bcf5abbe83053e8a8e5f50b6b",
+      "installedAt": "2026-03-08T22:23:17.191Z",
+      "updatedAt": "2026-03-08T22:23:17.191Z"
     }
   },
   "dismissed": {
